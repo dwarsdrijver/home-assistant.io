@@ -25,7 +25,7 @@ Home Assistant needs to know where to find the SPC Web Gateway API endpoints, to
 # Example configuration.yaml entry
 spc:
   api_url: API_URL
-  ws_url: WS_URL
+  ws_url: WS_URL/ws/spc
 ```
 
 {% configuration %}
